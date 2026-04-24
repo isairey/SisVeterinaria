@@ -30,8 +30,8 @@ Seguir estos pasos te permitirá tener el backend funcionando en menos de 5 minu
 
 Abre tu terminal y ejecuta (no olvides reemplazar la URL):
 ```bash
-git clone https://github.com/TuUsuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/isairey/SisVeterinaria.git
+cd SisVeterinaria
 ```
 
 ### 2. Crear el Archivo de Variables de Entorno
